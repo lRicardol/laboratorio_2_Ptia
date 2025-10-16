@@ -3,6 +3,11 @@
 ## ARBOLES DE DECISIÓN
 ## LABORATORIO 2/4
 
+### integrantes
+Ricardo Ayala
+
+Allan Contreras
+
 **OBJETIVOS**
 
 Desarrollar competencias básicas para:
